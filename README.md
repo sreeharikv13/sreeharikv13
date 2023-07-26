@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning Fullstack Development<br>📫 How to reach me ssreeharikv@gmail.com
+# 👋 Hi, I’m @sreehari kv : )
+👀 I’m interested in web development 🥳<br>📫 reach me at ssreeharikv@gmail.com
 
 
 ## 🌐 Socials:
